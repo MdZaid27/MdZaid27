@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Zaid</h1>
 <h3 align="center">Passionate about decoding the language of data, exploring the realms of science with fervor</h3>
-<img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
+<img align="right" alt="Coding" width="400" src="https://kotapoint.in/wp-content/uploads/2023/09/ds-3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzaid27&label=Profile%20views&color=0e75b6&style=flat" alt="mdzaid27" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mohammedzaid6" target="blank"><img src="https://img.shields.io/twitter/follow/mohammedzaid6?logo=twitter&style=for-the-badge" alt="mohammedzaid6" /></a> </p>
