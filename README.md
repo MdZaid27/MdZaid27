@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Zaid</h1>
-<h3 align="center">Passionate about decoding the language of data, exploring the realms of science with fervor</h3>
+<h3 align="center">Passionate about coding, also decoding the language of data, exploring the realms of science with fervor</h3>
 <img align="right" alt="Coding" width="400" src="https://kotapoint.in/wp-content/uploads/2023/09/ds-3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzaid27&label=Profile%20views&color=0e75b6&style=flat" alt="mdzaid27" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI, Big Data**
 
-- 💬 Ask me about **SQL, Power Bi, ML**
+- 💬 Ask me about **SQL, Power Bi, ML, react, javascript**
 
 - 📫 How to reach me **md.zaid2705@gmail.com**
 
