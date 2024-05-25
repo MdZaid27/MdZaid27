@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://kotapoint.in/wp-content/uploads/2023/09/ds-3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzaid27&label=Profile%20views&color=0e75b6&style=flat" alt="mdzaid27" /> </p>
 
-<p align="left"> <a href="https://https://twitter.com/mohammed_zaid27" target="blank"><img src="https://img.shields.io/twitter/follow/mohammedzaid27?logo=twitter&style=for-the-badge" alt="mohammedzaid27" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mohammed_zaid27" target="blank"><img src="https://img.shields.io/twitter/follow/mohammedzaid27?logo=twitter&style=for-the-badge" alt="mohammedzaid27" /></a> </p>
 
 - 🔭 I’m currently working on **AI Chatbot**
 
