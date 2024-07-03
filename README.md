@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/mohammed_zaid27" target="blank"><img src="https://img.shields.io/twitter/follow/mohammedzaid27?logo=twitter&style=for-the-badge" alt="mohammedzaid27" /></a> </p>
 
-- 🔭 I’m currently working on **AI Chatbot**
+- 🌱 I’m currently learning **MERN STACK**
 
-- 🌱 I’m currently learning **AI, Big Data**
-
-- 💬 Ask me about **SQL, Power Bi, ML, react, javascript**
+- 💬 Ask me about **React, Javascript, ML, Css**
 
 - 📫 How to reach me **md.zaid2705@gmail.com**
 
